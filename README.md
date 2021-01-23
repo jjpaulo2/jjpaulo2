@@ -10,5 +10,6 @@
 - 🐍 Python, 🐘 PHP, 🍺 Javascript
 - 📚 Math student
 - 🎮 Hobby game developer
+- 🐧 Linux user
 
 [📷 Instagram](https://instagram.com/jjpaulo2) · [💼 LinkedIn](https://linkedin.com/in/jjpaulo2) · [💬 Telegram](https://t.me/jjpaulo2)
