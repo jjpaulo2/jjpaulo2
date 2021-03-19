@@ -1,5 +1,5 @@
 ### João Paulo Carvalho
-#### Full Stack Web Developer 
+#### Back-End Python Developer
 
 🇬🇧 Open-Source enthusiast. Python lover. Experient in hybrid and responsive apps development. Now I'm working mainly with Django and Flask for back-end, and Agular and Vue for front-end.
 
