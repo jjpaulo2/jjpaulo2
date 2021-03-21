@@ -13,3 +13,8 @@
 - 🐧 Linux user
 
 [📷 Instagram](https://instagram.com/jjpaulo2) · [💼 LinkedIn](https://linkedin.com/in/jjpaulo2) · [💬 Telegram](https://t.me/jjpaulo2)
+
+<span>
+   <img height="170vw" src="https://github-readme-stats.vercel.app/api?username=jjpaulo2&count_private=true&show_icons=true&theme=dark&&include_all_commits=true"/>
+   <img height="170vw" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjpaulo2&hide=html,css,javascript&layout=compact&langs_count=8&theme=dark"/>
+</span>
