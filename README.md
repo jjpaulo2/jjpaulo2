@@ -1,17 +1,15 @@
 ### João Paulo Carvalho
 #### Back-End Python Developer
 
-🇬🇧 Open-Source enthusiast. Python lover. Experient in hybrid and responsive apps development. Now I'm working mainly with Django and Flask for back-end, and Angular and Vue for front-end.
+🇬🇧 Open-Source enthusiast. Back-end engineer. Producing codes since 2015. Today, I am coding mainly in Python, Golang and Javascript, but I already worked with PHP and Java. Cloud solutions archtect, with AWS focus.
 
-🇧🇷 Entusiasta do mundo open-source. Amante do Python. Experiente no desenvolvimento de aplicações hibridas e responsivas. No momento estou trabalhando principalmente com os frameworks Django e Flask para back-end, e no front-end Angular e Vue.
+🇧🇷 Entusiasta do open-source. Engenheiro de back-end. Produzindo códigos desde 2015. Hoje estou mais próximo das linguagens de programação Python, Golang e Javascript, mas também já trabalhei PHP e Java. Arquiteto de soluções em cloud, com foco em AWS.
  
-> Buscando pelo material do tutorial de PyGame da **Python Brasil 2020**? Acesse esse repositório: [jjpaulo2/tutorial-pygame-python-brasil-2020](https://github.com/jjpaulo2/tutorial-pygame-python-brasil-2020)
- 
-- 🐍 Python, 🐘 PHP, 🍺 Javascript
-- 🎮 Hobby game developer
-- 🐧 Linux user
+- 🐍 Python, 🐹 Golang, 🍺 Javascript
+- ☁️ Cloud solutions archtect
+- 🐧 Linux lover
 
-[📷 Instagram](https://instagram.com/jjpaulo2) · [💼 LinkedIn](https://linkedin.com/in/jjpaulo2) · [💬 Telegram](https://t.me/jjpaulo2)
+[📷 Instagram](https://instagram.com/jjpaulo2) · [💼 LinkedIn](https://linkedin.com/in/jjpaulo2)
 
 <span>
    <img height="170vw" src="https://github-readme-stats.vercel.app/api?username=jjpaulo2&count_private=true&show_icons=true&theme=dark&&include_all_commits=true"/>
