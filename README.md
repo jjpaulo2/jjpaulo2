@@ -6,7 +6,7 @@
 🇧🇷 Entusiasta do open-source. Engenheiro de back-end. Produzindo códigos desde 2015. Hoje estou mais próximo das linguagens de programação Python, Golang e Javascript, mas também já trabalhei PHP e Java. Arquiteto de soluções em cloud, com foco em AWS.
  
 - 🐍 Python, 🐹 Golang, 🍺 Javascript
-- ☁️ Cloud solutions archtect
+- ☁️ Cloud solutions architect
 - 🐧 Linux lover
 
 <span>
