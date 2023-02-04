@@ -1,5 +1,5 @@
 ### João Paulo Carvalho
-#### Back-End Python Developer
+#### Back-End Engineer
 
 🇬🇧 Open-Source enthusiast. Back-end engineer. Producing codes since 2015. Today, I am coding mainly in Python, Golang and Javascript, but I already worked with PHP and Java. Cloud solutions archtect, with AWS focus.
 
@@ -8,8 +8,6 @@
 - 🐍 Python, 🐹 Golang, 🍺 Javascript
 - ☁️ Cloud solutions archtect
 - 🐧 Linux lover
-
-[📷 Instagram](https://instagram.com/jjpaulo2) · [💼 LinkedIn](https://linkedin.com/in/jjpaulo2)
 
 <span>
    <img height="170vw" src="https://github-readme-stats.vercel.app/api?username=jjpaulo2&count_private=true&show_icons=true&theme=dark&&include_all_commits=true"/>
