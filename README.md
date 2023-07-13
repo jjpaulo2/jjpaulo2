@@ -18,3 +18,9 @@
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/pythonbnu/thumbs/pull/3) in [pythonbnu/thumbs](https://github.com/pythonbnu/thumbs)
+2. 💪 Opened PR [#3](https://github.com/pythonbnu/thumbs/pull/3) in [pythonbnu/thumbs](https://github.com/pythonbnu/thumbs)
+3. 🚀 Published release [v1.0.0](https://github.com/pythonbnu/thumbs/releases/tag/v1.0.0) in [pythonbnu/thumbs](https://github.com/pythonbnu/thumbs)
+4. 🎉 Merged PR [#2](https://github.com/pythonbnu/thumbs/pull/2) in [pythonbnu/thumbs](https://github.com/pythonbnu/thumbs)
+5. 💪 Opened PR [#2](https://github.com/pythonbnu/thumbs/pull/2) in [pythonbnu/thumbs](https://github.com/pythonbnu/thumbs)
+<!--END_SECTION:activity-->
