@@ -14,4 +14,7 @@
    <img height="170vw" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjpaulo2&hide=html,css,javascript&layout=compact&langs_count=8&theme=dark"/>
 </span>
 
+
+### ⚡ Recent activity
+
 <!--START_SECTION:activity-->
