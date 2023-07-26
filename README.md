@@ -18,9 +18,9 @@
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/jjpaulo2/pipconf/pull/12) in [jjpaulo2/pipconf](https://github.com/jjpaulo2/pipconf)
-2. 💪 Opened PR [#119](https://github.com/vgalin/html2image/pull/119) in [vgalin/html2image](https://github.com/vgalin/html2image)
-3. 🎉 Merged PR [#3](https://github.com/pythonbnu/thumbs/pull/3) in [pythonbnu/thumbs](https://github.com/pythonbnu/thumbs)
-4. 💪 Opened PR [#3](https://github.com/pythonbnu/thumbs/pull/3) in [pythonbnu/thumbs](https://github.com/pythonbnu/thumbs)
-5. 🚀 Published release [v1.0.0](https://github.com/pythonbnu/thumbs/releases/tag/v1.0.0) in [pythonbnu/thumbs](https://github.com/pythonbnu/thumbs)
+1. 🗣 Commented on [#4](https://github.com/pythonbnu/meetups/issues/4#issuecomment-1648807468) in [pythonbnu/meetups](https://github.com/pythonbnu/meetups)
+2. 💪 Opened PR [#12](https://github.com/jjpaulo2/pipconf/pull/12) in [jjpaulo2/pipconf](https://github.com/jjpaulo2/pipconf)
+3. 💪 Opened PR [#119](https://github.com/vgalin/html2image/pull/119) in [vgalin/html2image](https://github.com/vgalin/html2image)
+4. 🎉 Merged PR [#3](https://github.com/pythonbnu/thumbs/pull/3) in [pythonbnu/thumbs](https://github.com/pythonbnu/thumbs)
+5. 💪 Opened PR [#3](https://github.com/pythonbnu/thumbs/pull/3) in [pythonbnu/thumbs](https://github.com/pythonbnu/thumbs)
 <!--END_SECTION:activity-->
