@@ -18,9 +18,9 @@
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#179](https://github.com/AndrewIngram/django-extra-views/issues/179#issuecomment-1726815468) in [AndrewIngram/django-extra-views](https://github.com/AndrewIngram/django-extra-views)
-2. 🗣 Commented on [#11771](https://github.com/ValveSoftware/Dota2-Gameplay/issues/11771#issuecomment-1712978687) in [ValveSoftware/Dota2-Gameplay](https://github.com/ValveSoftware/Dota2-Gameplay)
-3. 🗣 Commented on [#11791](https://github.com/ValveSoftware/Dota2-Gameplay/issues/11791#issuecomment-1712978157) in [ValveSoftware/Dota2-Gameplay](https://github.com/ValveSoftware/Dota2-Gameplay)
-4. 🗣 Commented on [#11793](https://github.com/ValveSoftware/Dota2-Gameplay/issues/11793#issuecomment-1712977977) in [ValveSoftware/Dota2-Gameplay](https://github.com/ValveSoftware/Dota2-Gameplay)
-5. ❗ Opened issue [#4](https://github.com/pythonbnu/thumbs/issues/4) in [pythonbnu/thumbs](https://github.com/pythonbnu/thumbs)
+1. 🗣 Commented on [#41](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io/issues/41#issuecomment-1728625556) in [HackerspaceBlumenau/hackerspaceblumenau.github.io](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io)
+2. ❗ Opened issue [#41](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io/issues/41) in [HackerspaceBlumenau/hackerspaceblumenau.github.io](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io)
+3. 🗣 Commented on [#179](https://github.com/AndrewIngram/django-extra-views/issues/179#issuecomment-1726815468) in [AndrewIngram/django-extra-views](https://github.com/AndrewIngram/django-extra-views)
+4. 🗣 Commented on [#11771](https://github.com/ValveSoftware/Dota2-Gameplay/issues/11771#issuecomment-1712978687) in [ValveSoftware/Dota2-Gameplay](https://github.com/ValveSoftware/Dota2-Gameplay)
+5. 🗣 Commented on [#11791](https://github.com/ValveSoftware/Dota2-Gameplay/issues/11791#issuecomment-1712978157) in [ValveSoftware/Dota2-Gameplay](https://github.com/ValveSoftware/Dota2-Gameplay)
 <!--END_SECTION:activity-->
