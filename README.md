@@ -18,9 +18,9 @@
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io/issues/41#issuecomment-1744886666) in [HackerspaceBlumenau/hackerspaceblumenau.github.io](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io)
-2. 🗣 Commented on [#41](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io/issues/41#issuecomment-1744880387) in [HackerspaceBlumenau/hackerspaceblumenau.github.io](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io)
-3. 🗣 Commented on [#41](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io/issues/41#issuecomment-1728625556) in [HackerspaceBlumenau/hackerspaceblumenau.github.io](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io)
-4. ❗ Opened issue [#41](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io/issues/41) in [HackerspaceBlumenau/hackerspaceblumenau.github.io](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io)
-5. 🗣 Commented on [#179](https://github.com/AndrewIngram/django-extra-views/issues/179#issuecomment-1726815468) in [AndrewIngram/django-extra-views](https://github.com/AndrewIngram/django-extra-views)
+1. 🗣 Commented on [#41](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io/issues/41#issuecomment-1746701074) in [HackerspaceBlumenau/hackerspaceblumenau.github.io](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io)
+2. 🗣 Commented on [#41](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io/issues/41#issuecomment-1744886666) in [HackerspaceBlumenau/hackerspaceblumenau.github.io](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io)
+3. 🗣 Commented on [#41](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io/issues/41#issuecomment-1744880387) in [HackerspaceBlumenau/hackerspaceblumenau.github.io](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io)
+4. 🗣 Commented on [#41](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io/issues/41#issuecomment-1728625556) in [HackerspaceBlumenau/hackerspaceblumenau.github.io](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io)
+5. ❗ Opened issue [#41](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io/issues/41) in [HackerspaceBlumenau/hackerspaceblumenau.github.io](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io)
 <!--END_SECTION:activity-->
