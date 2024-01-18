@@ -18,9 +18,9 @@
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/pythonNordeste/pyne2024/pull/17) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
-2. ❗ Opened issue [#16](https://github.com/pythonNordeste/pyne2024/issues/16) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
-3. ❗ Opened issue [#15](https://github.com/pythonNordeste/organizacao-pyne-2024/issues/15) in [pythonNordeste/organizacao-pyne-2024](https://github.com/pythonNordeste/organizacao-pyne-2024)
-4. 🗣 Commented on [#41](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io/issues/41#issuecomment-1746701074) in [HackerspaceBlumenau/hackerspaceblumenau.github.io](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io)
-5. 🗣 Commented on [#41](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io/issues/41#issuecomment-1744886666) in [HackerspaceBlumenau/hackerspaceblumenau.github.io](https://github.com/HackerspaceBlumenau/hackerspaceblumenau.github.io)
+1. 🗣 Commented on [#16](https://github.com/pythonNordeste/pyne2024/issues/16#issuecomment-1897664657) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
+2. 🗣 Commented on [#17](https://github.com/pythonNordeste/pyne2024/pull/17#issuecomment-1897660693) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
+3. 🗣 Commented on [#17](https://github.com/pythonNordeste/pyne2024/pull/17#issuecomment-1897638696) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
+4. 🗣 Commented on [#17](https://github.com/pythonNordeste/pyne2024/pull/17#issuecomment-1897634867) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
+5. 🗣 Commented on [#17](https://github.com/pythonNordeste/pyne2024/pull/17#issuecomment-1897570279) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
 <!--END_SECTION:activity-->
