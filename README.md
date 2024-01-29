@@ -18,9 +18,9 @@
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/pythonNordeste/pyne2024/issues/16#issuecomment-1897664657) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
-2. 🗣 Commented on [#17](https://github.com/pythonNordeste/pyne2024/pull/17#issuecomment-1897660693) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
-3. 🗣 Commented on [#17](https://github.com/pythonNordeste/pyne2024/pull/17#issuecomment-1897638696) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
-4. 🗣 Commented on [#17](https://github.com/pythonNordeste/pyne2024/pull/17#issuecomment-1897634867) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
-5. 🗣 Commented on [#17](https://github.com/pythonNordeste/pyne2024/pull/17#issuecomment-1897570279) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
+1. 🗣 Commented on [#18](https://github.com/pythonNordeste/pyne2024/issues/18#issuecomment-1913727688) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
+2. 🗣 Commented on [#18](https://github.com/pythonNordeste/pyne2024/issues/18#issuecomment-1913726964) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
+3. ❗ Opened issue [#18](https://github.com/pythonNordeste/pyne2024/issues/18) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
+4. 🗣 Commented on [#16](https://github.com/pythonNordeste/pyne2024/issues/16#issuecomment-1897664657) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
+5. 🗣 Commented on [#17](https://github.com/pythonNordeste/pyne2024/pull/17#issuecomment-1897660693) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
 <!--END_SECTION:activity-->
