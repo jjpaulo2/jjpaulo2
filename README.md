@@ -18,9 +18,9 @@
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/pythonbnu/pythonbnu.github.io/pull/24) in [pythonbnu/pythonbnu.github.io](https://github.com/pythonbnu/pythonbnu.github.io)
-2. 🗣 Commented on [#25](https://github.com/pythonNordeste/pyne2024/pull/25#issuecomment-1959477252) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
-3. 🗣 Commented on [#21](https://github.com/pythonNordeste/pyne2024/issues/21#issuecomment-1952468201) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
-4. 🗣 Commented on [#25](https://github.com/pythonNordeste/pyne2024/pull/25#issuecomment-1950267812) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
-5. 💪 Opened PR [#25](https://github.com/pythonNordeste/pyne2024/pull/25) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
+1. 🎉 Merged PR [#9](https://github.com/jjpaulo2/windows-time-sync/pull/9) in [jjpaulo2/windows-time-sync](https://github.com/jjpaulo2/windows-time-sync)
+2. ❌ Closed PR [#8](https://github.com/jjpaulo2/windows-time-sync/pull/8) in [jjpaulo2/windows-time-sync](https://github.com/jjpaulo2/windows-time-sync)
+3. 💪 Opened PR [#9](https://github.com/jjpaulo2/windows-time-sync/pull/9) in [jjpaulo2/windows-time-sync](https://github.com/jjpaulo2/windows-time-sync)
+4. ❌ Closed PR [#119](https://github.com/vgalin/html2image/pull/119) in [vgalin/html2image](https://github.com/vgalin/html2image)
+5. 🎉 Merged PR [#24](https://github.com/pythonbnu/pythonbnu.github.io/pull/24) in [pythonbnu/pythonbnu.github.io](https://github.com/pythonbnu/pythonbnu.github.io)
 <!--END_SECTION:activity-->
