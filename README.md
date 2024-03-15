@@ -18,9 +18,9 @@
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/jjpaulo2/windows-time-sync/pull/9) in [jjpaulo2/windows-time-sync](https://github.com/jjpaulo2/windows-time-sync)
-2. ❌ Closed PR [#8](https://github.com/jjpaulo2/windows-time-sync/pull/8) in [jjpaulo2/windows-time-sync](https://github.com/jjpaulo2/windows-time-sync)
-3. 💪 Opened PR [#9](https://github.com/jjpaulo2/windows-time-sync/pull/9) in [jjpaulo2/windows-time-sync](https://github.com/jjpaulo2/windows-time-sync)
-4. ❌ Closed PR [#119](https://github.com/vgalin/html2image/pull/119) in [vgalin/html2image](https://github.com/vgalin/html2image)
-5. 🎉 Merged PR [#24](https://github.com/pythonbnu/pythonbnu.github.io/pull/24) in [pythonbnu/pythonbnu.github.io](https://github.com/pythonbnu/pythonbnu.github.io)
+1. 💪 Opened PR [#1](https://github.com/HackerspaceBlumenau/flisol/pull/1) in [HackerspaceBlumenau/flisol](https://github.com/HackerspaceBlumenau/flisol)
+2. 🎉 Merged PR [#9](https://github.com/jjpaulo2/windows-time-sync/pull/9) in [jjpaulo2/windows-time-sync](https://github.com/jjpaulo2/windows-time-sync)
+3. ❌ Closed PR [#8](https://github.com/jjpaulo2/windows-time-sync/pull/8) in [jjpaulo2/windows-time-sync](https://github.com/jjpaulo2/windows-time-sync)
+4. 💪 Opened PR [#9](https://github.com/jjpaulo2/windows-time-sync/pull/9) in [jjpaulo2/windows-time-sync](https://github.com/jjpaulo2/windows-time-sync)
+5. ❌ Closed PR [#119](https://github.com/vgalin/html2image/pull/119) in [vgalin/html2image](https://github.com/vgalin/html2image)
 <!--END_SECTION:activity-->
