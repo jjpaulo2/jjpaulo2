@@ -18,9 +18,9 @@
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/HackerspaceBlumenau/flisol/pull/1#issuecomment-2000137648) in [HackerspaceBlumenau/flisol](https://github.com/HackerspaceBlumenau/flisol)
-2. 💪 Opened PR [#27](https://github.com/pythonNordeste/pyne2024/pull/27) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
-3. 💪 Opened PR [#1](https://github.com/HackerspaceBlumenau/flisol/pull/1) in [HackerspaceBlumenau/flisol](https://github.com/HackerspaceBlumenau/flisol)
-4. 🎉 Merged PR [#9](https://github.com/jjpaulo2/windows-time-sync/pull/9) in [jjpaulo2/windows-time-sync](https://github.com/jjpaulo2/windows-time-sync)
-5. ❌ Closed PR [#8](https://github.com/jjpaulo2/windows-time-sync/pull/8) in [jjpaulo2/windows-time-sync](https://github.com/jjpaulo2/windows-time-sync)
+1. 🗣 Commented on [#2](https://github.com/HackerspaceBlumenau/flisol/pull/2#issuecomment-2015083401) in [HackerspaceBlumenau/flisol](https://github.com/HackerspaceBlumenau/flisol)
+2. 💪 Opened PR [#2](https://github.com/HackerspaceBlumenau/flisol/pull/2) in [HackerspaceBlumenau/flisol](https://github.com/HackerspaceBlumenau/flisol)
+3. 🗣 Commented on [#1](https://github.com/HackerspaceBlumenau/flisol/pull/1#issuecomment-2000137648) in [HackerspaceBlumenau/flisol](https://github.com/HackerspaceBlumenau/flisol)
+4. 💪 Opened PR [#27](https://github.com/pythonNordeste/pyne2024/pull/27) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
+5. 💪 Opened PR [#1](https://github.com/HackerspaceBlumenau/flisol/pull/1) in [HackerspaceBlumenau/flisol](https://github.com/HackerspaceBlumenau/flisol)
 <!--END_SECTION:activity-->
