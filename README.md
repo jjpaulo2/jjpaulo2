@@ -18,9 +18,9 @@
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/HackerspaceBlumenau/flisol/pull/2#issuecomment-2015083401) in [HackerspaceBlumenau/flisol](https://github.com/HackerspaceBlumenau/flisol)
-2. 💪 Opened PR [#2](https://github.com/HackerspaceBlumenau/flisol/pull/2) in [HackerspaceBlumenau/flisol](https://github.com/HackerspaceBlumenau/flisol)
-3. 🗣 Commented on [#1](https://github.com/HackerspaceBlumenau/flisol/pull/1#issuecomment-2000137648) in [HackerspaceBlumenau/flisol](https://github.com/HackerspaceBlumenau/flisol)
-4. 💪 Opened PR [#27](https://github.com/pythonNordeste/pyne2024/pull/27) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
+1. 🚀 Published release [v0.1.0](https://github.com/jjpaulo2/fastrpa/releases/tag/0.1.0) in [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa)
+2. 💪 Opened PR [#41](https://github.com/pythonNordeste/pyne2024/pull/41) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
+3. 🗣 Commented on [#38](https://github.com/pythonNordeste/pyne2024/pull/38#issuecomment-2241835074) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
+4. 💪 Opened PR [#38](https://github.com/pythonNordeste/pyne2024/pull/38) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
 5. 💪 Opened PR [#1](https://github.com/HackerspaceBlumenau/flisol/pull/1) in [HackerspaceBlumenau/flisol](https://github.com/HackerspaceBlumenau/flisol)
 <!--END_SECTION:activity-->
