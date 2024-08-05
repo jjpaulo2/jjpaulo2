@@ -18,9 +18,9 @@
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/jjpaulo2/fastrpa/releases/tag/1.0.0) in [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa)
-2. 🎉 Merged PR [#1](https://github.com/jjpaulo2/fastrpa/pull/1) in [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa)
-3. 🚀 Published release [v0.1.0](https://github.com/jjpaulo2/fastrpa/releases/tag/0.1.0) in [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa)
-4. 💪 Opened PR [#41](https://github.com/pythonNordeste/pyne2024/pull/41) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
-5. 🗣 Commented on [#38](https://github.com/pythonNordeste/pyne2024/pull/38#issuecomment-2241835074) in [pythonNordeste/pyne2024](https://github.com/pythonNordeste/pyne2024)
+1. 🗣 Commented on [#12](https://github.com/jjpaulo2/pipconf/pull/12#issuecomment-2267809565) in [jjpaulo2/pipconf](https://github.com/jjpaulo2/pipconf)
+2. 🗣 Commented on [#9](https://github.com/jjpaulo2/pipconf/issues/9#issuecomment-2267801314) in [jjpaulo2/pipconf](https://github.com/jjpaulo2/pipconf)
+3. 🔒 Closed issue [#9](https://github.com/jjpaulo2/pipconf/issues/9) in [jjpaulo2/pipconf](https://github.com/jjpaulo2/pipconf)
+4. 🚀 Published release [1.0.1](https://github.com/jjpaulo2/fastrpa/releases/tag/1.0.1) in [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa)
+5. 🎉 Merged PR [#6](https://github.com/jjpaulo2/fastrpa/pull/6) in [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa)
 <!--END_SECTION:activity-->
