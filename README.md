@@ -18,9 +18,9 @@
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/jjpaulo2/pipconf/pull/12#issuecomment-2267809565) in [jjpaulo2/pipconf](https://github.com/jjpaulo2/pipconf)
-2. 🗣 Commented on [#9](https://github.com/jjpaulo2/pipconf/issues/9#issuecomment-2267801314) in [jjpaulo2/pipconf](https://github.com/jjpaulo2/pipconf)
-3. 🔒 Closed issue [#9](https://github.com/jjpaulo2/pipconf/issues/9) in [jjpaulo2/pipconf](https://github.com/jjpaulo2/pipconf)
-4. 🚀 Published release [1.0.1](https://github.com/jjpaulo2/fastrpa/releases/tag/1.0.1) in [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa)
-5. 🎉 Merged PR [#6](https://github.com/jjpaulo2/fastrpa/pull/6) in [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa)
+1. ❗ Opened issue [#8](https://github.com/jjpaulo2/fastrpa/issues/8) in [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa)
+2. ❗ Opened issue [#7](https://github.com/jjpaulo2/fastrpa/issues/7) in [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa)
+3. 🗣 Commented on [#12](https://github.com/jjpaulo2/pipconf/pull/12#issuecomment-2267809565) in [jjpaulo2/pipconf](https://github.com/jjpaulo2/pipconf)
+4. 🗣 Commented on [#9](https://github.com/jjpaulo2/pipconf/issues/9#issuecomment-2267801314) in [jjpaulo2/pipconf](https://github.com/jjpaulo2/pipconf)
+5. 🔒 Closed issue [#9](https://github.com/jjpaulo2/pipconf/issues/9) in [jjpaulo2/pipconf](https://github.com/jjpaulo2/pipconf)
 <!--END_SECTION:activity-->
