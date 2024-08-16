@@ -18,9 +18,9 @@
 ### ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/jjpaulo2/fastrpa/issues/9) in [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa)
-2. 🚀 Published release [2.0](https://github.com/jjpaulo2/pipconf/releases/tag/2.0.1) in [jjpaulo2/pipconf](https://github.com/jjpaulo2/pipconf)
-3. 🗣 Commented on [#8](https://github.com/jjpaulo2/pipconf/issues/8#issuecomment-2278978381) in [jjpaulo2/pipconf](https://github.com/jjpaulo2/pipconf)
-4. 🔒 Closed issue [#8](https://github.com/jjpaulo2/pipconf/issues/8) in [jjpaulo2/pipconf](https://github.com/jjpaulo2/pipconf)
-5. 🗣 Commented on [#7](https://github.com/jjpaulo2/pipconf/issues/7#issuecomment-2278978037) in [jjpaulo2/pipconf](https://github.com/jjpaulo2/pipconf)
+1. ❗ Opened issue [#4](https://github.com/jjpaulo2/noticias-phb/issues/4) in [jjpaulo2/noticias-phb](https://github.com/jjpaulo2/noticias-phb)
+2. ❗ Opened issue [#3](https://github.com/jjpaulo2/noticias-phb/issues/3) in [jjpaulo2/noticias-phb](https://github.com/jjpaulo2/noticias-phb)
+3. ❗ Opened issue [#2](https://github.com/jjpaulo2/noticias-phb/issues/2) in [jjpaulo2/noticias-phb](https://github.com/jjpaulo2/noticias-phb)
+4. ❗ Opened issue [#1](https://github.com/jjpaulo2/noticias-phb/issues/1) in [jjpaulo2/noticias-phb](https://github.com/jjpaulo2/noticias-phb)
+5. ❗ Opened issue [#9](https://github.com/jjpaulo2/fastrpa/issues/9) in [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa)
 <!--END_SECTION:activity-->
